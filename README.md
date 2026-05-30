@@ -8,7 +8,7 @@ Apasionada por la ingeniería de software de calidad, el modelado de datos efici
 
 ### 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes Principales:** Delphi (Object Pascal), SQL, PHP
+* **Lenguajes Principales:** Delphi (Object Pascal), SQL
 * **Bases de Datos:** MariaDB, MySQL
 * **Metodologías & Arquitectura:** Modelado de Datos, Diseño de Bases de Datos, Análisis de Sistemas
 * **Control de Versiones:** Git & GitHub
