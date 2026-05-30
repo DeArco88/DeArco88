@@ -18,6 +18,6 @@ Apasionada por la ingeniería de software de calidad, el modelado de datos efici
 ### 📫 Conéctate conmigo
 
 * **LinkedIn:** https://www.linkedin.com/in/mariaaguilerap/
-* **Email:** maguilerap007@email.com
+* **Email:** maguilerap007@gmail.com
 
-Unidos para crear software eficiente y escalable. ¡Gracias por visitar mi perfil! 😊
+¡Gracias por visitar mi perfil! 😊
