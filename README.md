@@ -15,14 +15,6 @@ Apasionada por la ingeniería de software de calidad, el modelado de datos efici
 
 ---
 
-### 🚀 Proyectos Destacados
-
-* 📁 **[Nombre de tu mejor sistema Delphi]** - Sistema completo de [gestión/control/facturación] desarrollado en Delphi con backend en MariaDB.
-* 📁 **[Nombre de otro proyecto o scripts SQL]** - Repositorio con optimizaciones de consultas, procedimientos almacenados y diseño de bases de datos relacionales.
-* 📁 **PHP Exercises** - Prácticas y ejercicios de lógica de programación y backend utilizando PHP.
-
----
-
 ### 📈 Estadísticas de GitHub
 
 <p align="left">
