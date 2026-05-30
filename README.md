@@ -17,10 +17,9 @@ Apasionada por la ingeniería de software de calidad, el modelado de datos efici
 
 ### 📈 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub de Maria" height="150" />
-  <img src="https://herokuapp.com" alt="Racha de GitHub de Maria" height="150" />
-</p>
+#### 📊 **My GitHub Stats**
+
+<img src="https://vercel.app" alt="Estadísticas de DeArco88" height="150" />
 
 ---
 
