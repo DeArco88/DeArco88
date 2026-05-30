@@ -15,14 +15,6 @@ Apasionada por la ingeniería de software de calidad, el modelado de datos efici
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-#### 📊 **My GitHub Stats**
-
-<img src="https://vercel.app" alt="Estadísticas de DeArco88" height="150" />
-
----
-
 ### 📫 Conéctate conmigo
 
 * **LinkedIn:** https://www.linkedin.com/in/mariaaguilerap/
